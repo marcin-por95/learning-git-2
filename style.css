@@ -1,7 +1,9 @@
 .song {
+    background-color: azure;
     margin: 0 600px 0 600px;
     text-align: center;
     .p{
         text-align: justify;
+        
     }
 }
